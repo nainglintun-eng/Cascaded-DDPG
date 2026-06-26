@@ -3,9 +3,9 @@
 % for autonomous drone trajectory tracking.
 %
 % Note:
-% Trained agent files are not included in this repository.
-% Please build your prefer Actor and Critc Network.
-% Please use your own trained agents to run the simulation.
+% To protect the core intellectual property of this project, the pre-trained agent weights/files are intentionally excluded from this repository. 
+% Users must construct their own Actor and Critic networks and use their own trained agents to execute the simulation.
+
 
 clear; clc; close all;
 
