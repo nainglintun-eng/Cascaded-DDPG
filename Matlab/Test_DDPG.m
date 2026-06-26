@@ -4,6 +4,7 @@
 %
 % Note:
 % Trained agent files are not included in this repository.
+% Please build your prefer Actor and Critc Network.
 % Please use your own trained agents to run the simulation.
 
 clear; clc; close all;
