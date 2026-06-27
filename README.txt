@@ -7,6 +7,7 @@ This project demonstrates a cascaded DDPG control framework in MATLAB/Simulink f
 - Cascaded control architecture
 - Reinforcement learning (DDPG)
 - Simulation-based trajectory tracking
+- Proof of trained result are included.
 
 ## How to Run
 1. Open the Simulink model
